@@ -1,6 +1,4 @@
-## Table of Content
-
-DescriptionChapter: Numerical Approaches
+## Chapter: Numerical Approaches
 
 Exercise 1
 <img src="Images/ex31.png" width="1000" height="400">
