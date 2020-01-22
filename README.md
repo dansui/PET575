@@ -1,6 +1,6 @@
 ## Table of Content
 
-Chapter: Numerical Approaches 
+<sub>Chapter: Numerical Approaches</sub>
 
 Exercise 1
 
