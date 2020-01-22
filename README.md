@@ -4,7 +4,7 @@ Chapter: Numerical Approaches
 
 Exercise 1
 
-![](images/ex31.png)
+![](PET575/images/ex31.png)
  
  [Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
