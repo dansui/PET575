@@ -1,12 +1,12 @@
 ## Table of Content
 
-<sub>Chapter: Numerical Approaches</sub>
+DescriptionChapter: Numerical Approaches
 
 Exercise 1
-
+<img src="Images/ex31.png" width="100" height="10">
 ![](Images/ex31.png)
  
- [Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
+ [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
  [Exercise 2](https://dansui.github.io/PET575/Chapter%203/Ex2.html)
  
