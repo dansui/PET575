@@ -3,8 +3,8 @@
 DescriptionChapter: Numerical Approaches
 
 Exercise 1
-<img src="Images/ex31.png" width="100" height="10">
-![](Images/ex31.png)
+< img src="Images/ex31.png" width="100" height="100">
+
  
  [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
