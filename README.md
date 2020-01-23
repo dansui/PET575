@@ -12,9 +12,9 @@ From the following table, the rheological data is measured using Fann 35.
 |15|10|
 |10|5|
 
-\[
- \Epsilon \epsilon \Alpha \alpha \Beta \beta \Gamma \gamma \Omega \omega
-\]
+Now the Herschel-Bulkley model is considered as
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\tau=\tau_0&plus;K\gamma^n" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau=\tau_0&plus;K\gamma^n" title="\tau=\tau_0+K\gamma^n" /></a>
 
  [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
