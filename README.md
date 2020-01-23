@@ -33,6 +33,7 @@ The velocity of a falling parachutist is given by a dynamic model as
 It is assumed that M=2, c=0.1.  Please
 
 (1) simulate the dynamic falling velocity within [0, 4s] by solving it analytically;
+
 (2) simulate the dynamic falling velocity within [0, 4s] by using Euler method with different time steps, Δt =2s, 1s, 0.4s,0.2s respectively. 
 
  
