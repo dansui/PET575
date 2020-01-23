@@ -3,7 +3,7 @@
 ## **Exercise 1**
 From the following table, the rheological data is measured using Fann 35.
 
-|Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\tau" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau" title="\tau" /></a>)|Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\gamma" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\gamma" title="\gamma" /></a>) |
+|Shear stress(![](https://latex.codecogs.com/svg.latex?\tau))|Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\gamma" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\gamma" title="\gamma" /></a>) |
 |-------|-----------|
 |64|1022|
 |42|511|
