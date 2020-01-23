@@ -26,7 +26,15 @@ Based on the data, please
  [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
 ## **Exercise 2**
-<img src="Images/ex32.png" width="1000" height="250">
+The velocity of a falling parachutist is given by a dynamic model as
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac&space;{dv}{dt}=9.8-\frac&space;c&space;M&space;v,~~~~~~~~~~~v(0)=0." target="_blank"><img src="https://latex.codecogs.com/svg.latex?\frac&space;{dv}{dt}=9.8-\frac&space;c&space;M&space;v,~~~~~~~~~~~v(0)=0." title="\frac {dv}{dt}=9.8-\frac c M v,~~~~~~~~~~~v(0)=0." /></a>
+
+It is assumed that M=2, c=0.1.  Please
+
+(1) simulate the dynamic falling velocity within [0, 4s] by solving it analytically;
+(2) simulate the dynamic falling velocity within [0, 4s] by using Euler method with different time steps, Δt =2s, 1s, 0.4s,0.2s respectively. 
+
  
  [Code for Exercise 2](https://dansui.github.io/PET575/Chapter%203/Ex2.html)
  
