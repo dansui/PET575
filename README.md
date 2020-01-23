@@ -74,7 +74,7 @@ d) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=3" target="_blank"
  
  [Code for Exercise 4, 2nd ODE Method](https://dansui.github.io/PET575/Chapter%203/Ex4_2.html)
  
-  Exercise 5
+ ##**Exercise 5** 
 <img src="Images/ex35.png" width="1000" height="500">
  
  [Code for Exercise 5](https://dansui.github.io/PET575/Chapter%203/Ex6.html)
