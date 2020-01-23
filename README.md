@@ -57,7 +57,7 @@ The initial conditions are
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=U_0=\begin{bmatrix}&space;1\\&space;1&space;\end{bmatrix},~~\dot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix},&space;~~\ddot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?U_0=\begin{bmatrix}&space;1\\&space;1&space;\end{bmatrix},~~\dot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix},&space;~~\ddot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix}." title="U_0=\begin{bmatrix} 1\\ 1 \end{bmatrix},~~\dot U_0=\begin{bmatrix} 0\\ 0 \end{bmatrix}, ~~\ddot U_0=\begin{bmatrix} 0\\ 0 \end{bmatrix}." /></a>
 
-(1) Simulate  the displacement responses over time range 0 ≤ t ≤ 12, for the following four values of the excitation frequency <a href="https://www.codecogs.com/eqnedit.php?latex=U_0=\begin{bmatrix}&space;1&space;\\&space;-1&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?U_0=\begin{bmatrix}&space;1&space;\\&space;-1&space;\end{bmatrix}." title="U_0=\begin{bmatrix} 1 \\ -1 \end{bmatrix}." /></a>
+(1) Simulate  the displacement responses over time range 0 ≤ t ≤ 12, for the following four values of the excitation frequency <a 
 
 a) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=0" title="\Omega=0" /></a>
 
@@ -76,6 +76,7 @@ d) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=3" target="_blank"
  
  ## **Exercise 5** 
 The table gives the experimental data of shear rate VS shear stress with the use of viscometer. 
+
 |Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\tau" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau" title="\tau" /></a>)|Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\gamma" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\gamma" title="\gamma" /></a>) |
 |-------|-----------|
 |31|1022|
