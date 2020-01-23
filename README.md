@@ -16,6 +16,13 @@ Now the Herschel-Bulkley model is considered as
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\tau=\tau_0&plus;K\gamma^n" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau=\tau_0&plus;K\gamma^n" title="\tau=\tau_0+K\gamma^n" /></a>
 
+Based on the data, please 
+
+(1)	calculate the coeffients of Herschel-Bulkley model (<a href="https://www.codecogs.com/eqnedit.php?latex=\tau_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau_0" title="\tau_0" /></a>, K, n) using bisection method;
+
+(2)	calculate them using fsolve function.
+
+
  [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
 Exercise 2
