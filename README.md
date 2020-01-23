@@ -1,6 +1,6 @@
-#Chapter: Numerical Approaches
+# Chapter: Numerical Approaches
 
-##**Exercise 1**
+## **Exercise 1**
 <img src="Images/ex31.png" width="1000" height="400">
 
  [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
