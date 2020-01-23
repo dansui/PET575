@@ -25,7 +25,7 @@ Based on the data, please
 
  [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
-Exercise 2
+## **Exercise 2**
 <img src="Images/ex32.png" width="1000" height="250">
  
  [Code for Exercise 2](https://dansui.github.io/PET575/Chapter%203/Ex2.html)
