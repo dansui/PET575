@@ -74,8 +74,15 @@ d) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=3" target="_blank"
  
  [Code for Exercise 4, 2nd ODE Method](https://dansui.github.io/PET575/Chapter%203/Ex4_2.html)
  
- ##**Exercise 5** 
-<img src="Images/ex35.png" width="1000" height="500">
+ ## **Exercise 5** 
+The table gives the experimental data of shear rate VS shear stress with the use of viscometer. 
+|Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\tau" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau" title="\tau" /></a>)|Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\gamma" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\gamma" title="\gamma" /></a>) |
+|-------|-----------|
+|31|1022|
+|27|511|
+|24|340|
+|14|5|
+
  
  [Code for Exercise 5](https://dansui.github.io/PET575/Chapter%203/Ex6.html)
 
