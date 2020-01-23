@@ -3,7 +3,14 @@
 ## **Exercise 1**
 From the following table, the rheological data is measured using Fann 35.
 
-|Shear rate(\[\tau\])
+|Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\tau" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau" title="\tau" /></a>)|Shear stress(<a href="https://www.codecogs.com/eqnedit.php?latex=\gamma" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\gamma" title="\gamma" /></a>) |
+|-------|-----------|
+|64|1022|
+|42|511|
+|34|340|
+|26|170|
+|15|10|
+|10|5|
 
 \[
  \Epsilon \epsilon \Alpha \alpha \Beta \beta \Gamma \gamma \Omega \omega
@@ -32,3 +39,4 @@ Exercise 2
 <img src="Images/ex35.png" width="1000" height="500">
  
  [Code for Exercise 5](https://dansui.github.io/PET575/Chapter%203/Ex6.html)
+
