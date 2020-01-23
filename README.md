@@ -3,7 +3,7 @@
 ## **Exercise 1**
 From the following table, the rheological data is measured using Fann 35.
 
-|Shear rate($$ \tau $$)
+|Shear rate(\[\tau\])
 
  [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
