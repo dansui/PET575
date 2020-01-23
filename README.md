@@ -5,6 +5,10 @@ From the following table, the rheological data is measured using Fann 35.
 
 |Shear rate(\[\tau\])
 
+\[
+ \Epsilon \epsilon \Alpha \alpha \Beta \beta \Gamma \gamma \Omega \omega
+\]
+
  [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%203/Ex1.html)
  
 Exercise 2
