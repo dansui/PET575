@@ -63,11 +63,11 @@ a) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=0" target="_blank"
 
 b) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=1" title="\Omega=1" /></a>
 
-c) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=\frac&space;{3}{\sqrt&space;2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=\frac&space;{3}{\sqrt&space;2}" title="\Omega=\frac {3}{\sqrt 2}" /></a>
+c) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=3/\sqrt&space;2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=3/\sqrt&space;2" title="\Omega=3/\sqrt 2" /></a>
 
 d) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=3" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=3" title="\Omega=3" /></a>
 
-(2) Simulate  the displacement responses over time range 0 ≤ t ≤ 12, for the new initial displacement, 
+(2) Simulate  the displacement responses over time range 0 ≤ t ≤ 12, for the new initial displacement, <a href="https://www.codecogs.com/eqnedit.php?latex=U_0=\begin{bmatrix}&space;1&space;\\&space;-1&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?U_0=\begin{bmatrix}&space;1&space;\\&space;-1&space;\end{bmatrix}." title="U_0=\begin{bmatrix} 1 \\ -1 \end{bmatrix}." /></a>
 
 
  [Code for Exercise 4, 1st ODE Method](https://dansui.github.io/PET575/Chapter%203/Ex4_1.html)
