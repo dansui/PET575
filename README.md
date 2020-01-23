@@ -88,5 +88,11 @@ Calculate the coefficients (<a href="https://www.codecogs.com/eqnedit.php?latex=
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\tau=\tau_0&plus;&space;\mu_p\gamma" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau=\tau_0&plus;&space;\mu_p\gamma" title="\tau=\tau_0+ \mu_p\gamma" /></a>
  
+and coefficients (K, n) of Power Law Model
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\tau=K\gamma^n" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau=K\gamma^n" title="\tau=K\gamma^n" /></a>
+
+by the regression methods.  And use <a href="https://www.codecogs.com/eqnedit.php?latex=R^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?R^2" title="R^2" /></a> (coefficient of determination) to evaluate the two models’ performance. 
+
  [Code for Exercise 5](https://dansui.github.io/PET575/Chapter%203/Ex6.html)
 
