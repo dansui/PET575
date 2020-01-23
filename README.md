@@ -48,12 +48,10 @@ Use Euler method to solve it with different steps, <a href="https://www.codecogs
  
  [Code for Exercise 3](https://dansui.github.io/PET575/Chapter%203/Ex3.html)
  
- Exercise 
+ ## **Exercise 4** 
+ The following figure shows the system with equations
  
  
- 
- 4
-<img src="Images/ex34.png" width="1000" height="1150">
 
  [Code for Exercise 4, 1st ODE Method](https://dansui.github.io/PET575/Chapter%203/Ex4_1.html)
  
