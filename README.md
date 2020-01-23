@@ -51,8 +51,24 @@ Use Euler method to solve it with different steps, <a href="https://www.codecogs
  ## **Exercise 4** 
  The following figure shows the system with equations
  
- <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;F_2\cos{\Omega&space;t}&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;F_2\cos{\Omega&space;t}&space;\end{bmatrix}." title="\begin{bmatrix} 2 & 0\\ 0&1 \end{bmatrix}\begin{bmatrix} \ddot{u}_1\\ \ddot{u}_2 \end{bmatrix}+\begin{bmatrix} 9 & -3\\ -3&3 \end{bmatrix}\begin{bmatrix} \dot{u}_1\\ \dot{u}_2 \end{bmatrix}=\begin{bmatrix} 0\\ F_2\cos{\Omega t} \end{bmatrix}." /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;2\cos{\Omega&space;t}&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;2\cos{\Omega&space;t}&space;\end{bmatrix}." title="\begin{bmatrix} 2 & 0\\ 0&1 \end{bmatrix}\begin{bmatrix} \ddot{u}_1\\ \ddot{u}_2 \end{bmatrix}+\begin{bmatrix} 9 & -3\\ -3&3 \end{bmatrix}\begin{bmatrix} \dot{u}_1\\ \dot{u}_2 \end{bmatrix}=\begin{bmatrix} 0\\ 2\cos{\Omega t} \end{bmatrix}." /></a>
  
+The initial conditions are 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=U_0=\begin{bmatrix}&space;1\\&space;1&space;\end{bmatrix},~~\dot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix},&space;~~\ddot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?U_0=\begin{bmatrix}&space;1\\&space;1&space;\end{bmatrix},~~\dot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix},&space;~~\ddot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix}." title="U_0=\begin{bmatrix} 1\\ 1 \end{bmatrix},~~\dot U_0=\begin{bmatrix} 0\\ 0 \end{bmatrix}, ~~\ddot U_0=\begin{bmatrix} 0\\ 0 \end{bmatrix}." /></a>
+
+(1) Simulate  the displacement responses over time range 0 ≤ t ≤ 12, for the following four values of the excitation frequency <a href="https://www.codecogs.com/eqnedit.php?latex=U_0=\begin{bmatrix}&space;1&space;\\&space;-1&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?U_0=\begin{bmatrix}&space;1&space;\\&space;-1&space;\end{bmatrix}." title="U_0=\begin{bmatrix} 1 \\ -1 \end{bmatrix}." /></a>
+
+a) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=0" title="\Omega=0" /></a>
+
+b) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=1" title="\Omega=1" /></a>
+
+c) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=\frac&space;{3}{\sqrt&space;2}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=\frac&space;{3}{\sqrt&space;2}" title="\Omega=\frac {3}{\sqrt 2}" /></a>
+
+d) <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=3" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=3" title="\Omega=3" /></a>
+
+(2) Simulate  the displacement responses over time range 0 ≤ t ≤ 12, for the new initial displacement, 
+
 
  [Code for Exercise 4, 1st ODE Method](https://dansui.github.io/PET575/Chapter%203/Ex4_1.html)
  
