@@ -39,12 +39,20 @@ It is assumed that M=2, c=0.1.  Please
  
  [Code for Exercise 2](https://dansui.github.io/PET575/Chapter%203/Ex2.html)
  
- Exercise 3
-<img src="Images/ex33.png" width="1000" height="150">
+## **Exercise 3**
+The ODE function is 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac&space;{dy}{dx}=y-sin(x),~~~~~~~~~~~y(0)=0." target="_blank"><img src="https://latex.codecogs.com/svg.latex?\frac&space;{dy}{dx}=y-sin(x),~~~~~~~~~~~y(0)=0." title="\frac {dy}{dx}=y-sin(x),~~~~~~~~~~~y(0)=0." /></a>
+
+Use Euler method to solve it with different steps, <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\pi" title="\pi" /></a>/32, <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\pi" title="\pi" /></a>/16,<a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\pi" title="\pi" /></a>/8,<a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\pi" title="\pi" /></a>/4, and plot the graphs.
  
  [Code for Exercise 3](https://dansui.github.io/PET575/Chapter%203/Ex3.html)
  
- Exercise 4
+ Exercise 
+ 
+ 
+ 
+ 4
 <img src="Images/ex34.png" width="1000" height="1150">
 
  [Code for Exercise 4, 1st ODE Method](https://dansui.github.io/PET575/Chapter%203/Ex4_1.html)
