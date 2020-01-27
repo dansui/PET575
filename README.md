@@ -219,3 +219,9 @@ Suppose the mud density is 1000kg/l. The pipe length is 3.5m and inner diameter 
 
 (5)	Calculate the pressure drops for these three fluids vs. flow rate (from 1 l/min to 300  l/min).
 
+## **Exercise 6**
+
+The structure of the drilling system is shown below. The differential pressure sensors are installed on the pipes in order to automatically evaluate the drilling fluid density and viscosity.  DP1 in the figure is the horizontal differential pressure between pressure sensors 1 and 2; DP2 in the figure is the vertical differential pressure between pressure sensors 3 and 4.  The values of the parameters involved in the calculation is given in the table.
+
+|Description|Notation|Values|Unit|
+|--------------------|--------|--------|--------|
