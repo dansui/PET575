@@ -109,4 +109,6 @@ Suppose A=4m, <a href="https://www.codecogs.com/eqnedit.php?latex=k_c" target="_
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=q_{in}(t)=\begin{matrix}0.45\\&space;0.5\\&space;0.2&space;\end{matrix}~~~~~~~~\begin{matrix}0\leq&space;t\leq200s\\&space;0<&space;t\leq350s\\&space;t>350s&space;\end{matrix}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{in}(t)=\begin{matrix}0.45\\&space;0.5\\&space;0.2&space;\end{matrix}~~~~~~~~\begin{matrix}0\leq&space;t\leq200s\\&space;0<&space;t\leq350s\\&space;t>350s&space;\end{matrix}" title="q_{in}(t)=\begin{matrix}0.45\\ 0.5\\ 0.2 \end{matrix}~~~~~~~~\begin{matrix}0\leq t\leq200s\\ 0< t\leq350s\\ t>350s \end{matrix}" /></a>
 
+Show the dynamic tank level with the change of the flowin.
 
+## **Exercise 2**
