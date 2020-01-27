@@ -136,3 +136,5 @@ Assume that the tank is initially empty and the feed delivery is given as
 <a href="https://www.codecogs.com/eqnedit.php?latex=q_{in}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{in}" title="q_{in}" /></a> is liquid flowing into the tank; <a href="https://www.codecogs.com/eqnedit.php?latex=q_{out}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{out}" title="q_{out}" /></a> is liquid flowing out of the tank and <a href="https://www.codecogs.com/eqnedit.php?latex=q_{out}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{out}" title="q_{out}" /></a>=12. The height of the tank is 7.2 meter.
 
 Determine the minimum cross sectional area of the tank, A, that will prevent overflow between the time 0 to 100 hours by using Euler’s method.
+
+# Chapter: Drilling Fluids
