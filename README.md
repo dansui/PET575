@@ -183,4 +183,8 @@ The data in the below table is obtained from Fann VG. Calculate the coefficients
 
 
 |Speed(rpm)|3|6|100|200|300|600|
-|Readings|9.4|14.2|24.5|32.1|19.5|30|
+|--------------|--------|--------|--------|--------|--------|--------|
+|Readings|9.4|14.2|24.5|32.1|39.6|60.4|
+|Speed(s^-1)|5|10|170|340|511|1022|
+|Shear stress[lbf/100 ft2]|10|15|26|34|42|64|
+
