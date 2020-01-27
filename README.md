@@ -49,7 +49,7 @@ Use Euler method to solve it with different steps, <a href="https://www.codecogs
  [Code for Exercise 3](https://dansui.github.io/PET575/Chapter%203/Ex3.html)
  
  ## **Exercise 4** 
- The following figure shows the system with equations
+ The  system is with equations
  
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;2\cos{\Omega&space;t}&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;2\cos{\Omega&space;t}&space;\end{bmatrix}." title="\begin{bmatrix} 2 & 0\\ 0&1 \end{bmatrix}\begin{bmatrix} \ddot{u}_1\\ \ddot{u}_2 \end{bmatrix}+\begin{bmatrix} 9 & -3\\ -3&3 \end{bmatrix}\begin{bmatrix} \dot{u}_1\\ \dot{u}_2 \end{bmatrix}=\begin{bmatrix} 0\\ 2\cos{\Omega t} \end{bmatrix}." /></a>
  
@@ -298,4 +298,17 @@ Show the dynamic response of the system when
 
 (3) c=0.4, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=1,\dot&space;x(0)=-1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=1,\dot&space;x(0)=-1" title="x(0)=1,\dot x(0)=-1" /></a>;
 
-(3) c=0.0001, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=1,\dot&space;x(0)=-1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=1,\dot&space;x(0)=-1" title="x(0)=1,\dot x(0)=-1" /></a>;
+(3) c=0.0001, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=1,\dot&space;x(0)=-1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=1,\dot&space;x(0)=-1" title="x(0)=1,\dot x(0)=-1" /></a>.
+
+
+## **Exercise 4**
+
+ The  system is with equations
+ 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;2\cos{\Omega&space;t}&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;2\cos{\Omega&space;t}&space;\end{bmatrix}." title="\begin{bmatrix} 2 & 0\\ 0&1 \end{bmatrix}\begin{bmatrix} \ddot{u}_1\\ \ddot{u}_2 \end{bmatrix}+\begin{bmatrix} 9 & -3\\ -3&3 \end{bmatrix}\begin{bmatrix} \dot{u}_1\\ \dot{u}_2 \end{bmatrix}=\begin{bmatrix} 0\\ 2\cos{\Omega t} \end{bmatrix}." /></a>
+ 
+The initial conditions are 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=U_0=\begin{bmatrix}&space;1\\&space;1&space;\end{bmatrix},~~\dot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix},&space;~~\ddot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?U_0=\begin{bmatrix}&space;1\\&space;1&space;\end{bmatrix},~~\dot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix},&space;~~\ddot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix}." title="U_0=\begin{bmatrix} 1\\ 1 \end{bmatrix},~~\dot U_0=\begin{bmatrix} 0\\ 0 \end{bmatrix}, ~~\ddot U_0=\begin{bmatrix} 0\\ 0 \end{bmatrix}." /></a>
+
+Show the general solution of the system and the dynamics with <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=1/\sqrt&space;2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=1/\sqrt&space;2" title="\Omega=1/\sqrt 2" /></a>.
