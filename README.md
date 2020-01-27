@@ -192,3 +192,26 @@ The data in the below table is obtained from Fann VG. Calculate the coefficients
 ## **Exercise 3**
 
 Suppose that D=0.15m, v=3.6m/s, ρ=1258 kg/m^3 ,μ=0.96Pa.s. Determine the flow regime.
+
+
+## **Exercise 4**
+
+For Newtonian fluids, make graphs of Reynolds number vs. flow rate (from 1 l/min to 500 l/min, the increment is 10 l/min), friction factor vs. flow rates, friction factor vs. Reynolds number in a 3.5m long pipe with inner diameter of 24mm. The mud density is 1000kg/l and viscosity is 1cP.
+
+
+## **Exercise 5**
+
+The data in the following table is obtained from Fann VG. 
+
+|Speed(rpm)|3|6|100|200|300|600|
+|--------------|--------|--------|--------|--------|--------|--------|
+|Readings|9.5|10.5|17|19.9|23|28.9|
+
+Suppose the mud density is 1000kg/l. The pipe length is 3.5m and inner diameter is 24mm. 
+
+(1)	Calculate the coefficients for three rheological models (Bingham, Power-law and Herchel-Bulkley)
+(2)	Calculate the generalized Reynolds number for these three fluids vs. flow rate (from 1 l/min to 300 l/min).
+(3)	Calculate the apparent viscosities for these three fluids vs. flow rate (from 1 l/min to 300 l/min).
+(4)	Calculate the friction factors for these three fluids vs. flow rate (from 1 l/min to 300 l/min).
+(5)	Calculate the pressure drops for these three fluids vs. flow rate (from 1 l/min to 300  l/min).
+
