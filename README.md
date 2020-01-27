@@ -112,3 +112,5 @@ Suppose A=4m, <a href="https://www.codecogs.com/eqnedit.php?latex=k_c" target="_
 Show the dynamic tank level with the change of the flowin.
 
 ## **Exercise 2**
+
+A tank is provided to store the feed liquid. Assume that the plant equipment is operated continuously. The situation is sketched in the figure below, with the following notations
