@@ -128,3 +128,8 @@ A: cross-sectional area of the tank
 𝜌: density of the liquid
 
 𝑚: mass of the liquid in the tank
+
+Assume that the tank is initially empty and the feed delivery is given as
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=q_{in}(t)=\begin{Bmatrix}30\\&space;0\\&space;30\\0\\30\\0&space;\end{matrix}~~~~~~~~\begin{matrix}0\leq&space;t\leq20h\\&space;20h<&space;t\leq40h\\&space;40h\leq&space;t\leq50h\\&space;50h<&space;t\leq70h\\70h\leq&space;t\leq80h\\&space;80h<&space;t\leq100h\\\\&space;\end{matrix}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{in}(t)=\begin{Bmatrix}30\\&space;0\\&space;30\\0\\30\\0&space;\end{matrix}~~~~~~~~\begin{matrix}0\leq&space;t\leq20h\\&space;20h<&space;t\leq40h\\&space;40h\leq&space;t\leq50h\\&space;50h<&space;t\leq70h\\70h\leq&space;t\leq80h\\&space;80h<&space;t\leq100h\\\\&space;\end{matrix}" title="q_{in}(t)=\begin{Bmatrix}30\\ 0\\ 30\\0\\30\\0 \end{matrix}~~~~~~~~\begin{matrix}0\leq t\leq20h\\ 20h< t\leq40h\\ 40h\leq t\leq50h\\ 50h< t\leq70h\\70h\leq t\leq80h\\ 80h< t\leq100h\\\\ \end{matrix}" /></a>
+
