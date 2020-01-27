@@ -114,3 +114,17 @@ Show the dynamic tank level with the change of the flowin.
 ## **Exercise 2**
 
 A tank is provided to store the feed liquid. Assume that the plant equipment is operated continuously. The situation is sketched in the figure below, with the following notations
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=q_{in}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{in}" title="q_{in}" /></a>: liquid flowing into the tank
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=q_{out}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{out}" title="q_{out}" /></a>: liquid flowing out of the tank
+
+A: cross-sectional area of the tank
+
+𝑙: height of the tank
+
+ℎ: liquid level height
+
+𝜌: density of the liquid
+
+𝑚: mass of the liquid in the tank
