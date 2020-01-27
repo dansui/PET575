@@ -176,3 +176,5 @@ The Herschel-Buckley parameters are using a yield point τ0 =38.8183 Poise/s, a 
 (1)	The Fann readings VS. RPM
 
 (2)Simulation of the Fann readings using the Herschel-Buckley model with the given coefficients VS. RPM
+
+## **Exercise 2**
