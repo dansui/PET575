@@ -170,3 +170,9 @@ The following data are obtained from Fann 35.
 |Speed(rpm)|3|6|100|200|300|600|
 |-----------|-------|-------|-------|-------|-------|-------|
 |Readings|7|7.3|13|16|19.5|30|
+
+The Herschel-Buckley parameters are using a yield point τ0 =38.8183 Poise/s, a consistency index of K=0.4601 Poise/s, and a flow behavior index of n=0.8087. Generate the following plots  where the following data are shown:
+
+(1)	The Fann readings VS. RPM
+
+(2)Simulation of the Fann readings using the Herschel-Buckley model with the given coefficients VS. RPM
