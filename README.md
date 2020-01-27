@@ -142,3 +142,7 @@ Determine the minimum cross sectional area of the tank, A, that will prevent ove
 ## **Exercise 1**
 
 The Couette viscometer model is developed for non-Newtonian fluids, having a yield point (YP or <a href="https://www.codecogs.com/eqnedit.php?latex=\tau_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau_0" title="\tau_0" /></a>) and a plastic viscosity (PV or <a href="https://www.codecogs.com/eqnedit.php?latex=\mu_p" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\mu_p" title="\mu_p" /></a>), suitable for the Bingham plastic rheology model. The readings of a Couette-type viscometer model is given as:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\theta=\frac{\mu_p\omega}{A}&plus;\frac{B\tau_0}{A}~~~~~~~~~~~~~~~~~(1)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\theta=\frac{\mu_p\omega}{A}&plus;\frac{B\tau_0}{A}~~~~~~~~~~~~~~~~~(1)" title="\theta=\frac{\mu_p\omega}{A}+\frac{B\tau_0}{A}~~~~~~~~~~~~~~~~~(1)" /></a>
+
+where θ is the dial readings of the viscometer,ω is the rotation of the cup in RPM (Note that in equation (1), <a href="https://www.codecogs.com/eqnedit.php?latex=\mu_p" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\mu_p" title="\mu_p" /></a> = Plastic Viscosity [cPoise], <a href="https://www.codecogs.com/eqnedit.php?latex=\tau_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau_0" title="\tau_0" /></a> = yield point [lbf/100 ft2]). The constants A and B are instrument constant for the Couette-type viscometer. The constant A is defined as
