@@ -282,3 +282,18 @@ Solve the analytical solutions and plot the dynamic responses of x(t), where
 (6) m=1,k=4,c=0.1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=-1;
 
 (6) m=1,k=4,c=0.1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0.
+
+
+## **Exercise 3**
+
+Compute the analytical solution of the following system
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\ddot&space;x(t)&plus;c\dot&space;x(t)&plus;4x(t)=1/\sqrt2\cos(at)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\ddot&space;x(t)&plus;c\dot&space;x(t)&plus;4x(t)=1/\sqrt2\cos(at)" title="\ddot x(t)+c\dot x(t)+4x(t)=1/\sqrt2\cos(at)" /></a>
+
+Show the dynamic response of the system when
+
+(1) c=0.4, a=3 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=-3/\sqrt2,\dot&space;x(0)=0." target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=-3/\sqrt2,\dot&space;x(0)=0." title="x(0)=-3/\sqrt2,\dot x(0)=0." /></a>;
+
+(2) c=0.4, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=-3/\sqrt2,\dot&space;x(0)=0." target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=-3/\sqrt2,\dot&space;x(0)=0." title="x(0)=-3/\sqrt2,\dot x(0)=0." /></a>;
+
+(2) c=0.4, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=1,\dot&space;x(0)=-1." target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=1,\dot&space;x(0)=-1." title="x(0)=1,\dot x(0)=-1." /></a>;
