@@ -209,9 +209,13 @@ The data in the following table is obtained from Fann VG.
 
 Suppose the mud density is 1000kg/l. The pipe length is 3.5m and inner diameter is 24mm. 
 
-(1)	Calculate the coefficients for three rheological models (Bingham, Power-law and Herchel-Bulkley)
+(1)	Calculate the coefficients for three rheological models (Bingham, Power-law and Herchel-Bulkley).
+
 (2)	Calculate the generalized Reynolds number for these three fluids vs. flow rate (from 1 l/min to 300 l/min).
+
 (3)	Calculate the apparent viscosities for these three fluids vs. flow rate (from 1 l/min to 300 l/min).
+
 (4)	Calculate the friction factors for these three fluids vs. flow rate (from 1 l/min to 300 l/min).
+
 (5)	Calculate the pressure drops for these three fluids vs. flow rate (from 1 l/min to 300  l/min).
 
