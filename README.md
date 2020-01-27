@@ -140,3 +140,5 @@ Determine the minimum cross sectional area of the tank, A, that will prevent ove
 # Chapter: Drilling Fluids
 
 ## **Exercise 1**
+
+The Couette viscometer model is developed for non-Newtonian fluids, having a yield point (YP or τ_0) and a plastic viscosity (PV or μ_p), suitable for the Bingham plastic rheology model. The readings of a Couette-type viscometer model is given as:
