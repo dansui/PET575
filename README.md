@@ -99,3 +99,6 @@ by the regression methods.  And use <a href="https://www.codecogs.com/eqnedit.ph
 # Chapter: Modeling
  
 ## **Exercise 1**
+The tank level model is
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;h=\frac1A(q_{in}-z_ck_c\sqrt{gh})" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;h=\frac1A(q_{in}-z_ck_c\sqrt{gh})" title="\dot h=\frac1A(q_{in}-z_ck_c\sqrt{gh})" /></a>
