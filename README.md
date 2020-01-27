@@ -107,7 +107,7 @@ where h is tank level, <a href="https://www.codecogs.com/eqnedit.php?latex=k_c" 
 
 Suppose A=4m, <a href="https://www.codecogs.com/eqnedit.php?latex=k_c" target="_blank"><img src="https://latex.codecogs.com/svg.latex?k_c" title="k_c" /></a>=0.12, the initial level is 2m, and the tank height is 2m. The valve is fully open. The total simulation time is 500s. The sampling time is 1s. The change of the flowin is given below
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=q_{in}(t)=\begin{matrix}0.45\\&space;0.5\\&space;0.2&space;\end{matrix}~~~~~~~~\begin{matrix}0\leq&space;t\leq200s\\&space;0<&space;t\leq350s\\&space;t>350s&space;\end{matrix}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{in}(t)=\begin{matrix}0.45\\&space;0.5\\&space;0.2&space;\end{matrix}~~~~~~~~\begin{matrix}0\leq&space;t\leq200s\\&space;0<&space;t\leq350s\\&space;t>350s&space;\end{matrix}" title="q_{in}(t)=\begin{matrix}0.45\\ 0.5\\ 0.2 \end{matrix}~~~~~~~~\begin{matrix}0\leq t\leq200s\\ 0< t\leq350s\\ t>350s \end{matrix}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=q_{in}(t)=\begin{Bmatrix}0.45\\&space;0.5\\&space;0.2&space;\end{matrix}~~~~~~~~\begin{matrix}0\leq&space;t\leq200s\\&space;0<&space;t\leq350s\\&space;t>350&space;\end{matrix}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?q_{in}(t)=\begin{Bmatrix}0.45\\&space;0.5\\&space;0.2&space;\end{matrix}~~~~~~~~\begin{matrix}0\leq&space;t\leq200s\\&space;0<&space;t\leq350s\\&space;t>350&space;\end{matrix}" title="q_{in}(t)=\begin{Bmatrix}0.45\\ 0.5\\ 0.2 \end{matrix}~~~~~~~~\begin{matrix}0\leq t\leq200s\\ 0< t\leq350s\\ t>350 \end{matrix}" /></a>
 
 Show the dynamic tank level with the change of the flowin.
 
