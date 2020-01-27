@@ -238,3 +238,25 @@ The structure of the drilling system is shown below. The differential pressure s
 Based on the values given in the table, calculate the density (ρ) and apparent viscosity (μ).
 
 # Chapter: Drillstring Dynamics
+
+## **Exercise 1**
+
+For the undamped system 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=m\ddot&space;x(t)&plus;kx(t)=0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?m\ddot&space;x(t)&plus;kx(t)=0" title="m\ddot x(t)+kx(t)=0" /></a>
+
+Solve the analytical solutions and plot the dynamic responses of x(t), where
+
+(1) m=1,k=1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0;
+
+
+(2) m=1,k=2 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0;
+
+
+(3) m=2,k=1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0;
+
+
+(4) m=1,k=1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=1;
+
+
+(5) m=1,k=1 and x(0)=-1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0.
