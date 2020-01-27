@@ -292,8 +292,8 @@ Compute the analytical solution of the following system
 
 Show the dynamic response of the system when
 
-(1) c=0.4, a=3 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=-3/\sqrt2,\dot&space;x(0)=0." target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=-3/\sqrt2,\dot&space;x(0)=0." title="x(0)=-3/\sqrt2,\dot x(0)=0." /></a>;
+(1) c=0.4, a=3 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=-3/\sqrt2,\dot&space;x(0)=0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=-3/\sqrt2,\dot&space;x(0)=0" title="x(0)=-3/\sqrt2,\dot x(0)=0" /></a>;
 
-(2) c=0.4, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=-3/\sqrt2,\dot&space;x(0)=0." target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=-3/\sqrt2,\dot&space;x(0)=0." title="x(0)=-3/\sqrt2,\dot x(0)=0." /></a>;
+(2) c=0.4, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=-3/\sqrt2,\dot&space;x(0)=0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=-3/\sqrt2,\dot&space;x(0)=0" title="x(0)=-3/\sqrt2,\dot x(0)=0" /></a>;
 
-(2) c=0.4, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=1,\dot&space;x(0)=-1." target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=1,\dot&space;x(0)=-1." title="x(0)=1,\dot x(0)=-1." /></a>;
+(2) c=0.4, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=1,\dot&space;x(0)=-1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=1,\dot&space;x(0)=-1" title="x(0)=1,\dot x(0)=-1" /></a>;
