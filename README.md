@@ -186,5 +186,9 @@ The data in the below table is obtained from Fann VG. Calculate the coefficients
 |--------------|--------|--------|--------|--------|--------|--------|
 |Readings|9.4|14.2|24.5|32.1|39.6|60.4|
 |Speed(s^-1)|5|10|170|340|511|1022|
-|Shear stress[lbf/100 ft2]|10|15|26|34|42|64|
+|Shear stress(lbf/100 ft2)|10|15|26|34|42|64|
 
+
+## **Exercise 3**
+
+Suppose that D=0.15m, v=3.6m/s, ρ=1258 kg/m^3 ,μ=0.96Pa.s. Determine the flow regime.
