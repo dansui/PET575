@@ -96,3 +96,4 @@ by the regression methods.  And use <a href="https://www.codecogs.com/eqnedit.ph
 
  [Code for Exercise 5](https://dansui.github.io/PET575/Chapter%203/Ex6.html)
 
+# Chapter: Modeling
