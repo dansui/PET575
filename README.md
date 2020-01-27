@@ -159,3 +159,12 @@ where: <a href="https://www.codecogs.com/eqnedit.php?latex=L_b" target="_blank">
 
 where: 0.20886 is the conversion factor for converting Poise to 1 lbf/100 ft2. Using this model, the various Couette-type viscometers can be simulated, and a dial reading, θ,  is calculated. Based on these calculations, the parameters for the Bingham plastic model can be found using two dial readings at two speed settings of the bob, where <a href="https://www.codecogs.com/eqnedit.php?latex=\theta_1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\theta_1" title="\theta_1" /></a> is read at <a href="https://www.codecogs.com/eqnedit.php?latex=\omega_1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\omega_1" title="\omega_1" /></a>, typically 600 rpm when using a Fann 35 meter and <a href="https://www.codecogs.com/eqnedit.php?latex=\theta_2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\theta_2" title="\theta_2" /></a> is read at <a href="https://www.codecogs.com/eqnedit.php?latex=\omega_2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\omega_2" title="\omega_2" /></a>, typically 300 rpm. The plastic viscosity parameter PV is found using
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mu_p=A(\frac{\theta_1-\theta_2}{\omega_1-\omega_2})" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\mu_p=A(\frac{\theta_1-\theta_2}{\omega_1-\omega_2})" title="\mu_p=A(\frac{\theta_1-\theta_2}{\omega_1-\omega_2})" /></a>
+
+and the yield point YP is found using
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\tau_0=\frac&space;AB\begin{bmatrix}&space;\theta_1&space;-(\frac{\omega_1}{\omega_1-\omega_2})(\theta_1-\theta_2)&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau_0=\frac&space;AB\begin{bmatrix}&space;\theta_1&space;-(\frac{\omega_1}{\omega_1-\omega_2})(\theta_1-\theta_2)&space;\end{bmatrix}" title="\tau_0=\frac AB\begin{bmatrix} \theta_1 -(\frac{\omega_1}{\omega_1-\omega_2})(\theta_1-\theta_2) \end{bmatrix}" /></a>
+
+The following data are obtained from Fann 35.
+|Speed(rpm)|3|6|100|200|300|600|
+|Readings|7|7.3|13|16|19.5|30|
