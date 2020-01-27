@@ -260,3 +260,25 @@ Solve the analytical solutions and plot the dynamic responses of x(t), where
 
 
 (5) m=1,k=1 and x(0)=-1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0.
+
+## **Exercise 2**
+
+For the damped system 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=m\ddot&space;x(t)&plus;c\dot&space;x(t)&plus;kx(t)=0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?m\ddot&space;x(t)&plus;c\dot&space;x(t)&plus;kx(t)=0" title="m\ddot x(t)+c\dot x(t)+kx(t)=0" /></a>
+
+Solve the analytical solutions and plot the dynamic responses of x(t), where
+
+(1) m=1,k=1,c=2 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=-1;
+
+(2) m=1,k=1,c=4 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=-1;
+
+(3) m=1,k=1,c=1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=-1;
+
+(4) m=1,k=1,c=0.1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=-1;
+
+(5) m=4,k=1,c=0.1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=-1;
+
+(6) m=1,k=4,c=0.1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=-1;
+
+(6) m=1,k=4,c=0.1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0.
