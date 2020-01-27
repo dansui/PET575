@@ -167,4 +167,5 @@ and the yield point YP is found using
 
 The following data are obtained from Fann 35.
 |Speed(rpm)|3|6|100|200|300|600|
+|-----------|-------|-------|-------|-------|-------|-------|
 |Readings|7|7.3|13|16|19.5|30|
