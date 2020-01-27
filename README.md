@@ -168,7 +168,6 @@ and the yield point YP is found using
 The following data are obtained from Fann 35.
 
 |Speed(rpm)|3|6|100|200|300|600|
-|-----------|-------|-------|-------|-------|-------|-------|
 |Readings|7|7.3|13|16|19.5|30|
 
 The Herschel-Buckley parameters are using a yield point τ0 =38.8183 Poise/s, a consistency index of K=0.4601 Poise/s, and a flow behavior index of n=0.8087. Generate the following plots  where the following data are shown:
@@ -183,5 +182,4 @@ The data in the below table is obtained from Fann VG. Calculate the coefficients
 
 
 |Speed(rpm)|3|6|100|200|300|600|
-|-----------|-------|-------|-------|-------|-------|-------|
 |Readings|9.4|14.2|24.5|32.1|19.5|30|
