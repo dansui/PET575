@@ -166,6 +166,7 @@ and the yield point YP is found using
 <a href="https://www.codecogs.com/eqnedit.php?latex=\tau_0=\frac&space;AB\begin{bmatrix}&space;\theta_1&space;-(\frac{\omega_1}{\omega_1-\omega_2})(\theta_1-\theta_2)&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\tau_0=\frac&space;AB\begin{bmatrix}&space;\theta_1&space;-(\frac{\omega_1}{\omega_1-\omega_2})(\theta_1-\theta_2)&space;\end{bmatrix}" title="\tau_0=\frac AB\begin{bmatrix} \theta_1 -(\frac{\omega_1}{\omega_1-\omega_2})(\theta_1-\theta_2) \end{bmatrix}" /></a>
 
 The following data are obtained from Fann 35.
+
 |Speed(rpm)|3|6|100|200|300|600|
 |-----------|-------|-------|-------|-------|-------|-------|
 |Readings|7|7.3|13|16|19.5|30|
