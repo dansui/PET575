@@ -235,3 +235,6 @@ The structure of the drilling system is shown below. The differential pressure s
 |Pipe roughness |<a href="https://www.codecogs.com/eqnedit.php?latex=\varepsilon" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\varepsilon" title="\varepsilon" /></a>|0|-|
 |Flow rate |q|0.0283|m ^3/s|
 
+Based on the values given in the table, calculate the density (ρ) and apparent viscosity (μ).
+
+# Chapter: Drillstring Dynamics
