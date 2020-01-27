@@ -225,3 +225,13 @@ The structure of the drilling system is shown below. The differential pressure s
 
 |Description|Notation|Values|Unit|
 |--------------------|--------|--------|--------|
+|Horizontal differential pressure between sensor 1, 2 |DP1|1000|Pa|
+|Vertical differential pressure between sensor 3, 4 |DP2|197000|Pa|
+|Vertical depth between sensor 3,4 |h|20|m|
+|Acceleration of gravity|g|9.8|m/s^2|
+|Pipe inner diameter |D|0.2|m|
+|Length between sensor 1,2 |l|30|m|
+|Length between sensor 3,4|l|30|m|
+|Pipe roughness |<a href="https://www.codecogs.com/eqnedit.php?latex=\varepsilon" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\varepsilon" title="\varepsilon" /></a>|0|-|
+|Flow rate |q|0.0283|m ^3/s|
+
