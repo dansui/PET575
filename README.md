@@ -139,6 +139,8 @@ Assume that the tank is initially empty and the feed delivery is given as
 
 Determine the minimum cross sectional area of the tank, A, that will prevent overflow between the time 0 to 100 hours by using Euler’s method.
 
+[Code for Exercise 2](https://dansui.github.io/PET575/Chapter%204/Ex4.html)
+ 
 # Chapter: Drilling Fluids
 
 ## **Exercise 1**
