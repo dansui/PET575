@@ -111,7 +111,7 @@ Suppose A=4m, <a href="https://www.codecogs.com/eqnedit.php?latex=k_c" target="_
 
 Show the dynamic tank level with the change of the flowin.
 
- [Code for Exercise 5](https://dansui.github.io/PET575/Chapter%203/Ex6.html)
+ [Code for Exercise 1](https://dansui.github.io/PET575/Chapter%204/Ex1.html)
 
 ## **Exercise 2**
 
