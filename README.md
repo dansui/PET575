@@ -168,7 +168,7 @@ The configuration data used for the temperature modeling is given below
 
 Please simulate the temperature profiles ofr fluids in drillstring and in annulus respectively.
 
-[Code for Temperature Modeling](https://dansui.github.io/PET575/Chapter%204/Ex4.html)
+[Code for Temperature Modeling](https://dansui.github.io/PET575/Chapter%204/Example_temperature.html)
 
 
  
