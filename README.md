@@ -141,6 +141,8 @@ Determine the minimum cross sectional area of the tank, A, that will prevent ove
 
 [Code for Exercise 2](https://dansui.github.io/PET575/Chapter%204/Ex4.html)
 
+## **Temperature Modeling**
+
 The configuration data used for the temperature modeling is given below
 
 |Definiation|Value|Description | Unit|
@@ -168,7 +170,7 @@ Please simulation the temperature profiles ofr fluids in drillstring and in annu
 
 [Code for Temperature Modeling](https://dansui.github.io/PET575/Chapter%204/Ex4.html)
 
-## **Temperature Modeling**
+
  
 # Chapter: Drilling Fluids
 
