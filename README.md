@@ -166,7 +166,7 @@ The configuration data used for the temperature modeling is given below
 |g_e|Geothermal gradient|0.0127|F/ft|
 |t|Circulation time|44|hours
 
-Please simulation the temperature profiles ofr fluids in drillstring and in annulus respectively.
+Please simulate the temperature profiles ofr fluids in drillstring and in annulus respectively.
 
 [Code for Temperature Modeling](https://dansui.github.io/PET575/Chapter%204/Ex4.html)
 
