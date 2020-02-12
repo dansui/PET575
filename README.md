@@ -149,7 +149,7 @@ The configuration data used for the temperature modeling is given below
 |-------|-----------|-----------|--------------------|
 |h|Well depth| 15000|Feet|
 |d_pi| Drill string OD|6.625|Inch|
-|d_p| Drill string OD|6.375|Inch|
+|d_p| Drill string ID|6.375|Inch|
 |d_bit| Drill bit size|8.375|Inch|
 |d_ci|Casing ID|10.25|Inch|
 |q|Flowrate|100|bbl/hour|
@@ -157,7 +157,7 @@ The configuration data used for the temperature modeling is given below
 |mu|Fluid viscosity|110|lb/(ft-hr)|
 |k_f|Fluid thermal conductivity|1|Btu/(ft-F-hr)|
 |k_p|Drill string thermal conductivity|1|Btu/(ft-F-hr)|
-|k|Formation conductivity|1.3|Btu/(ft-F-hr)|
+|k|Formation thermal conductivity|1.3|Btu/(ft-F-hr)|
 |c_f|Fluid specific heat capacity|0.4| Btu/(lb-F)|
 |c|Formation specific heat capacity|0.2| Btu/(lb-F)|
 |rho_f|Fluid denisty|10|lb/gal|
@@ -166,7 +166,7 @@ The configuration data used for the temperature modeling is given below
 |g_e|Geothermal gradient|0.0127|F/ft|
 |t|Circulation time|44|hours
 
-Please simulate the temperature profiles ofr fluids in drillstring and in annulus respectively.
+Please simulate the temperature profiles of fluids in drillstring and in annulus respectively.
 
 [Code for Temperature Modeling](https://dansui.github.io/PET575/Chapter%204/Example_temperature.html)
 
