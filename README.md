@@ -50,7 +50,7 @@ Use Euler method to solve it with different steps, <a href="https://www.codecogs
  
  [Code for Exercise 3](https://dansui.github.io/PET575/Chapter%203/Ex3.html)
  
- ## **Exercise 4** 
+## **Exercise 4**
  
  The  system is with equations
  
