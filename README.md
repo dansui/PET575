@@ -229,17 +229,19 @@ The data in the below table is obtained from Fann VG. Calculate the coefficients
 
 [Code for Exercise 2 (Regression Method)](https://dansui.github.io/PET575/Chapter%205/Ex2_1.html)
 
-## **Exercise 3**
+## **Exercise 4**
 
 Suppose that D=0.15m, v=3.6m/s, ρ=1258 kg/m^3 ,μ=0.96Pa.s. Determine the flow regime.
 
+[Code for Exercise 4](https://dansui.github.io/PET575/Chapter%205/Ex4.html)
 
-## **Exercise 4**
+## **Exercise 5**
 
 For Newtonian fluids, make graphs of Reynolds number vs. flow rate (from 1 l/min to 500 l/min, the increment is 10 l/min), friction factor vs. flow rates, friction factor vs. Reynolds number in a 3.5m long pipe with inner diameter of 24mm. The mud density is 1000kg/l and viscosity is 1cP.
 
+[Code for Exercise 5](https://dansui.github.io/PET575/Chapter%205/Ex5.html)
 
-## **Exercise 5**
+## **Exercise 6**
 
 The data in the following table is obtained from Fann VG. 
 
@@ -259,7 +261,9 @@ Suppose the mud density is 1000kg/l. The pipe length is 3.5m and inner diameter 
 
 (5)	Calculate the pressure drops for these three fluids vs. flow rate (from 1 l/min to 300  l/min).
 
-## **Exercise 6**
+[Code for Exercise 6](https://dansui.github.io/PET575/Chapter%205/Ex6.html)
+
+## **Exercise 7**
 
 The structure of the drilling system is shown below. The differential pressure sensors are installed on the pipes in order to automatically evaluate the drilling fluid density and viscosity.  DP1 in the figure is the horizontal differential pressure between pressure sensors 1 and 2; DP2 in the figure is the vertical differential pressure between pressure sensors 3 and 4.  The values of the parameters involved in the calculation is given in the table.
 
@@ -276,6 +280,8 @@ The structure of the drilling system is shown below. The differential pressure s
 |Flow rate |q|0.0283|m ^3/s|
 
 Based on the values given in the table, calculate the density (ρ) and apparent viscosity (μ).
+
+[Code for Exercise 7](https://dansui.github.io/PET575/Chapter%205/Ex7.html)
 
 # Chapter: Drillstring Dynamics
 
