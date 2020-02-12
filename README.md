@@ -229,6 +229,58 @@ The data in the below table is obtained from Fann VG. Calculate the coefficients
 
 [Code for Exercise 2 (Regression Method)](https://dansui.github.io/PET575/Chapter%205/Ex2_1.html)
 
+## **Exercise 3**
+
+Please calculate the best-fit coefficients of the following density model
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\rho=\rho_0&plus;\frac{\rho_0}\beta(P-P_0)-\rho_0\alpha(T-T_0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\rho=\rho_0&plus;\frac{\rho_0}\beta(P-P_0)-\rho_0\alpha(T-T_0)" title="\rho=\rho_0+\frac{\rho_0}\beta(P-P_0)-\rho_0\alpha(T-T_0)" /></a>
+
+by regression method. Reference points for the density (<a href="https://www.codecogs.com/eqnedit.php?latex=\rho_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\rho_0" title="\rho_0" /></a>) and temperature (<a href="https://www.codecogs.com/eqnedit.php?latex=T_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?T_0" title="T_0" /></a>) are defined as:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\rho_0=800kg/m^3,~~~T_0=20^oC" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\rho_0=800kg/m^3,~~~T_0=20^oC" title="\rho_0=800kg/m^3,~~~T_0=20^oC" /></a>
+
+The dataset used, varies in pressures from 1 bar to 900 bar and the temperatures used is from 4°C to 200°C. For the varying pressures and temperatures, respectable densities are given in the dataset.
+
+temp=[4,20,50,75,100,125,150,175,200];
+
+pres=[1,14.790,42.230,69.940,90.632,118.211,145.790,173.369,200.948,228.527,256.106,311.264,366.422,435.370,490.528,900.000];
+
+dens=.01*[
+0.806125 0.800000 0.780827 0.763662 0.746678 0.728862 0.710629 0.691998 0.672913;
+
+0.806817 0.800736 0.781693 0.764649 0.747784 0.730090 0.711983 0.693480 0.674531;
+
+0.808179 0.802188 0.783405 0.766599 0.749967 0.732518 0.714662 0.696410 0.677723;
+
+0.809532 0.803627 0.785100 0.768529 0.752127 0.734918 0.717301 0.699301 0.680865;
+
+0.810547 0.804707 0.786366 0.769966 0.753731 0.736691 0.719258 0.701437 0.683187;
+
+0.811883 0.806129 0.788038 0.771860 0.755843 0.739038 0.721835 0.704256 0.686248;
+
+0.813225 0.807552 0.789697 0.773734 0.757926 0.741345 0.724378 0.707023 0.689258;
+
+0.814552 0.808956 0.791332 0.775586 0.759992 0.743628 0.726880 0.709757 0.692223;
+
+0.815870 0.810355 0.792962 0.777418 0.762022 0.745876 0.729348 0.712445 0.695138;
+
+0.817183 0.811741 0.794567 0.779229 0.764034 0.748095 0.731775 0.715087 0.698009;
+
+0.818492 0.813122 0.796161 0.781018 0.766017 0.750278 0.734167 0.717695 0.700828;
+
+0.821073 0.815847 0.799305 0.784537 0.769903 0.754556 0.738845 0.722772 0.706323;
+
+0.823640 0.818543 0.802382 0.787971 0.773688 0.758708 0.743370 0.727692 0.711635;
+
+0.826798 0.821853 0.806142 0.792151 0.778279 0.763727 0.748833 0.733596 0.718013;
+
+0.829287 0.824457 0.809084 0.795400 0.781831 0.767602 0.753036 0.738137 0.722899;
+
+0.847760 0.843786 0.830923 0.819527 0.808205 0.796365 0.784232 0.771855 0.759173;
+
+];
+
+
 ## **Exercise 4**
 
 Suppose that D=0.15m, v=3.6m/s, ρ=1258 kg/m^3 ,μ=0.96Pa.s. Determine the flow regime.
