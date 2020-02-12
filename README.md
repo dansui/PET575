@@ -1,4 +1,4 @@
-### Note: You could click 'code for exercise' to see the Python scripts, and click 'open in Colab' on the top of the code for running simulation.  It is convenient that you could run code, do changes and visulze results with your cell phone without installing any software or downloading it. 
+### Note: Click 'code for exercise' to see the Python scripts, and click 'open in Colab' on the top of the code for running simulation.  It is convenient to run code, do changes and visulze results using mobile devices or web-app without installing any software or downloading it. 
 
 # Chapter: Numerical Approaches
 
