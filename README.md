@@ -212,6 +212,8 @@ The Herschel-Buckley parameters are using a yield point τ0 =38.8183 Poise/s, a 
 
 (2)Simulation of the Fann readings using the Herschel-Buckley model with the given coefficients VS. RPM
 
+[Code for Exercise 1](https://dansui.github.io/PET575/Chapter%205/Ex1.html)
+
 ## **Exercise 2**
 
 The data in the below table is obtained from Fann VG. Calculate the coefficients for three rheological models (Bingham, Power-law and Herchel-Bulkley)
