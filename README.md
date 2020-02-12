@@ -225,6 +225,9 @@ The data in the below table is obtained from Fann VG. Calculate the coefficients
 |Speed(s^-1)|5|10|170|340|511|1022|
 |Shear stress(lbf/100 ft2)|10|15|26|34|42|64|
 
+[Code for Exercise 2 (Field Method)](https://dansui.github.io/PET575/Chapter%205/Ex2.html)
+
+[Code for Exercise 2 (Regression Method)](https://dansui.github.io/PET575/Chapter%205/Ex2_1.html)
 
 ## **Exercise 3**
 
