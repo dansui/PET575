@@ -1,3 +1,5 @@
+### Note: Click 'code for exercise' to see the Python scripts, and click 'open in Colab' on the top of the code for running simulation.  It is convenient to run code, do changes and visulze results using mobile devices or web-app without installing any software or downloading it. 
+
 # Chapter: Numerical Approaches
 
 ## **Exercise 1**
@@ -48,7 +50,8 @@ Use Euler method to solve it with different steps, <a href="https://www.codecogs
  
  [Code for Exercise 3](https://dansui.github.io/PET575/Chapter%203/Ex3.html)
  
- ## **Exercise 4** 
+## **Exercise 4**
+ 
  The  system is with equations
  
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;2\cos{\Omega&space;t}&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}&space;2&space;&&space;0\\&space;0&1&space;\end{bmatrix}\begin{bmatrix}&space;\ddot{u}_1\\&space;\ddot{u}_2&space;\end{bmatrix}&plus;\begin{bmatrix}&space;9&space;&&space;-3\\&space;-3&3&space;\end{bmatrix}\begin{bmatrix}&space;\dot{u}_1\\&space;\dot{u}_2&space;\end{bmatrix}=\begin{bmatrix}&space;0\\&space;2\cos{\Omega&space;t}&space;\end{bmatrix}." title="\begin{bmatrix} 2 & 0\\ 0&1 \end{bmatrix}\begin{bmatrix} \ddot{u}_1\\ \ddot{u}_2 \end{bmatrix}+\begin{bmatrix} 9 & -3\\ -3&3 \end{bmatrix}\begin{bmatrix} \dot{u}_1\\ \dot{u}_2 \end{bmatrix}=\begin{bmatrix} 0\\ 2\cos{\Omega t} \end{bmatrix}." /></a>
@@ -212,6 +215,8 @@ The Herschel-Buckley parameters are using a yield point τ0 =38.8183 Poise/s, a 
 
 (2)Simulation of the Fann readings using the Herschel-Buckley model with the given coefficients VS. RPM
 
+[Code for Exercise 1](https://dansui.github.io/PET575/Chapter%205/Ex1.html)
+
 ## **Exercise 2**
 
 The data in the below table is obtained from Fann VG. Calculate the coefficients for three rheological models (Bingham, Power-law and Herchel-Bulkley)
@@ -223,18 +228,60 @@ The data in the below table is obtained from Fann VG. Calculate the coefficients
 |Speed(s^-1)|5|10|170|340|511|1022|
 |Shear stress(lbf/100 ft2)|10|15|26|34|42|64|
 
+[Code for Exercise 2 (Field Method)](https://dansui.github.io/PET575/Chapter%205/Ex2.html)
+
+[Code for Exercise 2 (Regression Method)](https://dansui.github.io/PET575/Chapter%205/Ex2_1.html)
 
 ## **Exercise 3**
 
-Suppose that D=0.15m, v=3.6m/s, ρ=1258 kg/m^3 ,μ=0.96Pa.s. Determine the flow regime.
+Please calculate the best-fit coefficients of the following density model
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\rho=\rho_0&plus;\frac{\rho_0}\beta(P-P_0)-\rho_0\alpha(T-T_0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\rho=\rho_0&plus;\frac{\rho_0}\beta(P-P_0)-\rho_0\alpha(T-T_0)" title="\rho=\rho_0+\frac{\rho_0}\beta(P-P_0)-\rho_0\alpha(T-T_0)" /></a>
+
+by regression method. Reference points for the density (<a href="https://www.codecogs.com/eqnedit.php?latex=\rho_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\rho_0" title="\rho_0" /></a>) and temperature (<a href="https://www.codecogs.com/eqnedit.php?latex=T_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?T_0" title="T_0" /></a>) are defined as:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\rho_0=800kg/m^3,~~~T_0=20^oC" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\rho_0=800kg/m^3,~~~T_0=20^oC" title="\rho_0=800kg/m^3,~~~T_0=20^oC" /></a>
+
+The dataset used, varies in pressures from 1 bar to 900 bar and the temperatures used is from 4°C to 200°C. For the varying pressures and temperatures, respectable densities are given in the dataset.
+
+temp=[4,20,50,75,100,125,150,175,200];
+
+pres=[1,14.790,42.230,69.940,90.632,118.211,145.790,173.369,200.948,228.527,256.106,311.264,366.422,435.370,490.528,900.000];
+
+|P(bar)/D(sg)/T(C)|4|20|50|75|100|125|150|175|200|
+|--------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|1|0.806125| 0.800000| 0.780827 |0.763662| 0.746678| 0.728862 |0.710629| 0.691998 |0.672913|
+|14.790|0.806817| 0.800736| 0.781693| 0.764649| 0.747784| 0.730090| 0.711983| 0.693480| 0.674531|
+|42.230|0.808179 |0.802188| 0.783405| 0.766599| 0.749967| 0.732518 |0.714662| 0.696410| 0.677723|
+|69.940|0.809532 |0.803627 |0.785100 |0.768529| 0.752127| 0.734918| 0.717301| 0.699301 |0.680865|
+|90.632|0.810547| 0.804707| 0.786366| 0.769966 |0.753731| 0.736691 |0.719258| 0.701437| 0.683187|
+|118.211|0.811883| 0.806129| 0.788038 |0.771860| 0.755843 |0.739038 |0.721835| 0.704256 |0.686248|
+|145.790|0.813225 |0.807552 |0.789697| 0.773734| 0.757926| 0.741345| 0.724378| 0.707023| 0.689258|
+|173.369|0.814552| 0.808956| 0.791332| 0.775586 |0.759992| 0.743628 |0.726880 |0.709757 |0.692223|
+|200.948|0.815870 |0.810355 |0.792962 |0.777418 |0.762022| 0.745876 |0.729348 |0.712445 |0.695138|
+|228.527|0.817183| 0.811741 |0.794567| 0.779229 |0.764034| 0.748095| 0.731775| 0.715087| 0.698009|
+|256.106|0.818492| 0.813122 |0.796161| 0.781018| 0.766017 |0.750278 |0.734167 |0.717695| 0.700828|
+|311.264|0.821073| 0.815847 |0.799305| 0.784537| 0.769903 |0.754556 |0.738845 |0.722772| 0.706323|
+|366.422|0.823640| 0.818543| 0.802382| 0.787971 |0.773688| 0.758708 |0.743370 |0.727692| 0.711635|
+|435.370|0.826798| 0.821853| 0.806142| 0.792151| 0.778279| 0.763727 |0.748833| 0.733596 |0.718013|
+|490.528|0.829287| 0.824457| 0.809084| 0.795400 |0.781831| 0.767602 |0.753036 |0.738137 |0.722899|
+|900.000|0.847760| 0.843786 |0.830923| 0.819527| 0.808205| 0.796365 |0.784232 |0.771855 |0.759173|
+
+[Code for Exercise 3](https://dansui.github.io/PET575/Chapter%205/Ex3.html)
 
 ## **Exercise 4**
 
-For Newtonian fluids, make graphs of Reynolds number vs. flow rate (from 1 l/min to 500 l/min, the increment is 10 l/min), friction factor vs. flow rates, friction factor vs. Reynolds number in a 3.5m long pipe with inner diameter of 24mm. The mud density is 1000kg/l and viscosity is 1cP.
+Suppose that D=0.15m, v=3.6m/s, ρ=1258 kg/m^3 ,μ=0.96Pa.s. Determine the flow regime.
 
+[Code for Exercise 4](https://dansui.github.io/PET575/Chapter%205/Ex4.html)
 
 ## **Exercise 5**
+
+For Newtonian fluids, make graphs of Reynolds number vs. flow rate (from 1 l/min to 500 l/min, the increment is 10 l/min), friction factor vs. flow rates, friction factor vs. Reynolds number in a 3.5m long pipe with inner diameter of 24mm. The mud density is 1000kg/l and viscosity is 1cP.
+
+[Code for Exercise 5](https://dansui.github.io/PET575/Chapter%205/Ex5.html)
+
+## **Exercise 6**
 
 The data in the following table is obtained from Fann VG. 
 
@@ -254,7 +301,9 @@ Suppose the mud density is 1000kg/l. The pipe length is 3.5m and inner diameter 
 
 (5)	Calculate the pressure drops for these three fluids vs. flow rate (from 1 l/min to 300  l/min).
 
-## **Exercise 6**
+[Code for Exercise 6](https://dansui.github.io/PET575/Chapter%205/Ex6.html)
+
+## **Exercise 7**
 
 The structure of the drilling system is shown below. The differential pressure sensors are installed on the pipes in order to automatically evaluate the drilling fluid density and viscosity.  DP1 in the figure is the horizontal differential pressure between pressure sensors 1 and 2; DP2 in the figure is the vertical differential pressure between pressure sensors 3 and 4.  The values of the parameters involved in the calculation is given in the table.
 
@@ -271,6 +320,8 @@ The structure of the drilling system is shown below. The differential pressure s
 |Flow rate |q|0.0283|m ^3/s|
 
 Based on the values given in the table, calculate the density (ρ) and apparent viscosity (μ).
+
+[Code for Exercise 7](https://dansui.github.io/PET575/Chapter%205/Ex7.html)
 
 # Chapter: Drillstring Dynamics
 
