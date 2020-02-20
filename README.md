@@ -244,10 +244,6 @@ by regression method. Reference points for the density (<a href="https://www.cod
 
 The dataset used, varies in pressures from 1 bar to 900 bar and the temperatures used is from 4°C to 200°C. For the varying pressures and temperatures, respectable densities are given in the dataset.
 
-temp=[4,20,50,75,100,125,150,175,200];
-
-pres=[1,14.790,42.230,69.940,90.632,118.211,145.790,173.369,200.948,228.527,256.106,311.264,366.422,435.370,490.528,900.000];
-
 |P(bar)/D(sg)/T(C)|4|20|50|75|100|125|150|175|200|
 |--------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 |1|0.806125| 0.800000| 0.780827 |0.763662| 0.746678| 0.728862 |0.710629| 0.691998 |0.672913|
@@ -347,6 +343,8 @@ Solve the analytical solutions and plot the dynamic responses of x(t), where
 
 (5) m=1,k=1 and x(0)=-1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0.
 
+[Code for Exercise 1](https://dansui.github.io/PET575/Chapter%206/Ex1.html)
+
 ## **Exercise 2**
 
 For the damped system 
@@ -369,6 +367,7 @@ Solve the analytical solutions and plot the dynamic responses of x(t), where
 
 (6) m=1,k=4,c=0.1 and x(0)=1, <a href="https://www.codecogs.com/eqnedit.php?latex=\dot&space;x(0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dot&space;x(0)" title="\dot x(0)" /></a>=0.
 
+[Code for Exercise 2](https://dansui.github.io/PET575/Chapter%206/Ex2.html)
 
 ## **Exercise 3**
 
@@ -386,6 +385,7 @@ Show the dynamic response of the system when
 
 (3) c=0.0001, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=1,\dot&space;x(0)=-1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=1,\dot&space;x(0)=-1" title="x(0)=1,\dot x(0)=-1" /></a>.
 
+[Code for Exercise 3](https://dansui.github.io/PET575/Chapter%206/Ex3.html)
 
 ## **Exercise 4**
 
@@ -398,3 +398,5 @@ The initial conditions are
 <a href="https://www.codecogs.com/eqnedit.php?latex=U_0=\begin{bmatrix}&space;1\\&space;1&space;\end{bmatrix},~~\dot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix},&space;~~\ddot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix}." target="_blank"><img src="https://latex.codecogs.com/svg.latex?U_0=\begin{bmatrix}&space;1\\&space;1&space;\end{bmatrix},~~\dot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix},&space;~~\ddot&space;U_0=\begin{bmatrix}&space;0\\&space;0&space;\end{bmatrix}." title="U_0=\begin{bmatrix} 1\\ 1 \end{bmatrix},~~\dot U_0=\begin{bmatrix} 0\\ 0 \end{bmatrix}, ~~\ddot U_0=\begin{bmatrix} 0\\ 0 \end{bmatrix}." /></a>
 
 Show the general solution of the system and the dynamics with <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega=1/\sqrt&space;2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega=1/\sqrt&space;2" title="\Omega=1/\sqrt 2" /></a>.
+
+[Code for Exercise 4](https://dansui.github.io/PET575/Chapter%206/Ex6.html)
