@@ -385,7 +385,7 @@ Show the dynamic response of the system when
 
 (3) c=0.0001, a=2 and  <a href="https://www.codecogs.com/eqnedit.php?latex=x(0)=1,\dot&space;x(0)=-1" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x(0)=1,\dot&space;x(0)=-1" title="x(0)=1,\dot x(0)=-1" /></a>.
 
-[Code for Exercise 3](https://dansui.github.io/PET575/Chapter%206/Ex3.html)
+
 
 ## **Exercise 4**
 
